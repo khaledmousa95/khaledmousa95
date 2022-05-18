@@ -3,16 +3,16 @@
 </div>  
   
 
-### <div align="center">Hey there ,I’m Khaled, I’m interested in in collaborating in any front-end project</div>  
+### <div align="center">Hey there ,I’m Khaled, I’m interested in in collaborating in challenging front-end projects</div>  
   
 
 - 🌱 I’m currently learning React JS and Redux  
   
 
-- ❓ Ask me about anything related to Vanilla JS,HTML,CSS and related technologies  
+- ❓ Feel free to ask me about anything related to Vanilla JS,HTML,CSS,Bootstrap,Sass and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces 
   
 
 <br/>  
@@ -29,7 +29,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
