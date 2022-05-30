@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React JS and Redux  
   
 
-- ❓ Feel free to ask me about anything related to Vanilla JS,HTML,CSS,Bootstrap,Sass and any related technologies  
+- ❓ Feel free to ask me about anything relate to Vanilla JS,HTML,CSS,Bootstrap,Sass and any related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces 
