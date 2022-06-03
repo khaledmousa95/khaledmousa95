@@ -6,7 +6,7 @@
 ### <div align="center">Hey there ,I’m Khaled, I’m interested in in collaborating in any challenging React or JS front-end project</div>  
   
 
-- 🌱 I’m currently learning React JS and Redux  
+- 🌱 I’m currently learning React JS and Redux 
   
 
 - ❓ Feel free to ask me about anything related to Vanilla JS,HTML,CSS,Bootstrap or Sass ! 
