@@ -3,11 +3,11 @@
 </div>  
   
 
-### <div align="center">I'm khaled, a full stack developer  🚀</div>  
+### <div align="center">I'm khaled, a full stack developer working currectly as software QA for Utest  🚀</div>  
   
 
 -  Feel free to ask me about anything related to MERN stack and related technologies❓  
--  Might collab in MERN stack
+-  I may or may not collab in MERN projects, it depends!!!
   
 
 <br/>  
