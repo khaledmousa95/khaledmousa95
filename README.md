@@ -6,8 +6,8 @@
 ### <div align="center">I'm khaled, a full stack developer working currectly for Utest  🚀</div>  
   
 
--  Feel free to ask me about anything related to MERN stack and related technologies❓  
--  I may or may not collab in MERN projects, it depends!!!
+-  Feel free to ask me about anything related to MERN stack and Reacr-native and related technologies❓  
+-  I may or may not collab in MERN projects, it depends on the project and the team involved!!!
   
 
 <br/>  
