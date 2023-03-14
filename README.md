@@ -7,7 +7,7 @@
   
 
 -  Feel free to ask me about anything related to MERN stack and React native and related technologies❓  
--  I may or may not collab in projects, it depends on the project and the team involved!!!
+-  I may collab in projects with good ideas, but obviously it depends on the project type and the team involved!!!
   
 
 <br/>  
