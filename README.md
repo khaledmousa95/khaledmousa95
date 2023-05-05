@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm khaled, a full stack developer working currectly for Utest  🚀</div>  
+### <div align="center">I'm khaled, a full stack developer working currently for Utest  🚀</div>  
   
 
 -  Feel free to ask me about anything related to MERN stack and React native and related technologies❓  
